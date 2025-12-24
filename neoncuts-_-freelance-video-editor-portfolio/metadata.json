@@ -1,0 +1,8 @@
+{
+  "name": "NeonCuts | Freelance Video Editor Portfolio",
+  "description": "A high-end, stylish portfolio for a freelance video editor featuring a creative AI brainstormer and cinematic design.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
